@@ -33,11 +33,21 @@ body {
 
 }
 
+/* p  */
+.text-color {
+    color: rgb(158, 157, 157);
+}
+
+/* p  */
+
+
 .btn-primary {
     border-radius: 8px;
-    background: #FD6E0A;
+    background: #E55473;
     padding: 15px 35px;
     border: 0;
+    color: aliceblue;
+
 }
 
 .hot-banner {
